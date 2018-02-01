@@ -1,8 +1,8 @@
 # Ranbow-Poem
 
 violet
+indigo
 blue
 green 
-indigo
 yellow 
 red
