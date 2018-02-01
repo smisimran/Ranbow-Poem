@@ -2,6 +2,7 @@
 
 violet
 indigo
+purple
 blue
 green 
 yellow 
