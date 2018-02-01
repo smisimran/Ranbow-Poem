@@ -4,7 +4,8 @@ violet
 indigo
 purple
 blue
-green 
+gree
+Recycle
 yellow 
 red
 unicorn
